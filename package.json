@@ -1,0 +1,19 @@
+{
+    "name": "test-image",
+    "version": "1.0.0",
+    "description": "Teste de criar um simples gerador de imagen a partir de um HTML.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "puppeteer": "^5.5.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
